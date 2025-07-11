@@ -9,6 +9,7 @@ public
 *.log
 
 .gitignore
+.env
 .npmignore
 .prettierignore
 .DS_Store
